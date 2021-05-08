@@ -1,0 +1,91 @@
+body {
+  font-family: "Titillium Web", sans-serif;
+}
+p {
+  font-size: 18px;
+  color: #999999;
+  line-height: 1.8;
+  margin-bottom: 0;
+}
+.topmargin-sx {
+  margin-top: 15px;
+}
+.topmargin-sm {
+  margin-top: 30px;
+}
+.topmargin-lg {
+  margin-top: 60px;
+}
+
+.btn {
+  font-size: 14px;
+  padding: 15px 26px;
+  min-width: 160px;
+  border-radius: 2px;
+  display: inline-block;
+}
+/* - --------------------------- INICIO NAVBAR------------------------------  */
+.navbar {
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+  min-height: 100px;
+}
+
+.nav-link {
+  color: #1a1a1a;
+}
+
+.nav-link:hover {
+  color: #1a1a1a;
+}
+
+.logo-brand {
+  min-width: 90px;
+  max-width: 110px;
+}
+
+.navbar-toggler {
+  font-size: 40px;
+}
+
+.navbar-toggler:focus {
+  outline: none;
+}
+/* - --------------------------- FIN NAVBAR------------------------------  */
+
+/* - --------------------------- INICIO HEADER------------------------------  */
+#hero {
+  background-image: url(./images/photo-1590990536121-41df40099b02.jpg);
+  background-size: cover;
+  padding-top: 90px;
+  min-height: 700px;
+  color: #ffffff;
+}
+
+.content-center {
+  max-width: 800px;
+  margin: 0 auto 60px auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 66px;
+  font-weight: 600;
+  line-height: 80px;
+}
+
+#hero p {
+  color: #ffffff;
+}
+.btn-light {
+  background-color: #ffffff;
+  color: #1a1a1a;
+  border: 2px solid #ffffff;
+}
+
+ion-icon {
+  font-size: 18px;
+  margin-left: 6px;
+}
+
+/* - --------------------------- FIN HEADER------------------------------  */
